@@ -10,6 +10,12 @@ Um aplicativo web interativo desenvolvido em **Python** e **Streamlit** que auto
 
 ---
 
+# Demonstração 
+
+O aplicativo esta disponível no link: https://gerador-rostos-ficticios.streamlit.app/
+
+---
+
 ## Funcionalidades
 * **Interface Web Amigável:** Painel interativo construído com Streamlit.
 * **Controle Dinâmico:** Escolha a quantidade exata de imagens que deseja capturar através de um slider.
